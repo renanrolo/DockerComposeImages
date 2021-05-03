@@ -8,7 +8,7 @@ This image give you two endpoints:
 
 2) Admin Dashboard where you can visualy see your queue's, online consumers, configurations, etc:
     - PORT: 15672
-    - localhost: 15672
+    - localhost:15672
 
 
 Obs. These are RabbitMQ's default ports
